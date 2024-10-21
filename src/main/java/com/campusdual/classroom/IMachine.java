@@ -7,3 +7,6 @@ public interface IMachine {
 	public void maintenance();
 	
 }
+
+
+
